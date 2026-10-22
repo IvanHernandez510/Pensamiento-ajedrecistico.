@@ -1,0 +1,2 @@
+# Pensamiento-ajedrecistico.
+Ff
